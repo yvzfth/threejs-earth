@@ -1,0 +1,93 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.w-half {
+  width: 50%;
+}
+
+.flex {
+  display: flex;
+}
+
+.h-screen {
+  height: 100vh;
+}
+
+.text-white {
+  color: white;
+}
+.text-gray {
+  color: gray;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.m-auto {
+  margin: auto;
+}
+
+.px-8 {
+  padding-right: 2rem;
+  padding-left: 2rem;
+}
+
+.py-4 {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+.bg-black {
+  background-color: black;
+}
+
+.bg-green {
+  background-color: green;
+}
+
+.bg-green:hover {
+  background-color: rgb(0, 150, 0);
+}
+
+.rounded-full {
+  border-radius: 3rem;
+}
+
+.w-max-60p {
+  width: 60%;
+  max-width: 60%;
+}
+
+.font-bold {
+  font-weight: 700;
+}
+
+.text-2xl {
+  font-size: 3rem;
+}
+
+.text-base {
+  font-size: 1rem;
+}
+
+.decoration-none {
+  text-decoration: none;
+}
+
+.mb-8 {
+  margin-bottom: 2rem;
+}
+
+.block {
+  display: block;
+}
+.justify-center {
+  justify-content: center;
+}
+.font-nunito {
+  font-family: 'Nunito', sans-serif;
+}
+.font-signika {
+  font-family: 'Signika Negative', sans-serif;
+}
